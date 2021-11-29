@@ -1,0 +1,5 @@
+# buildpack.yml
+php:
+  # directory where web app code is stored
+  # default: htdocs
+  webdirectory: public
